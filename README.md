@@ -26,11 +26,16 @@ Enter your username and password.
 If the credentials are correct, you will be logged in and can manage your TODO list.
 Manage Tasks:
 
-Add Task: Enter new tasks which will be saved to your TODO list.
-See Tasks: View all your current tasks.
-Search Task: Search for a specific task by its ID.
-Delete Task: Remove a task by its ID.
-Logout:Choose the logout option to return to the main menu for re-login or account creation.
+Add Task: 
+Enter new tasks which will be saved to your TODO list.
+See Tasks: 
+View all your current tasks.
+Search Task: 
+Search for a specific task by its ID.
+Delete Task:
+Remove a task by its ID.
+Logout:
+Choose the logout option to return to the main menu for re-login or account creation.
 
 ## File Structure
 main.cpp: The main C++ source file containing the application logic.
